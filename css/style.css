@@ -1,0 +1,77 @@
+body {
+    margin: auto;
+    width: 500px;
+    background-color: darkgray;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header Classes*/
+
+.main-header {
+    /*margin-top: 20px;*/
+    width: 100%;
+    height: 60px;
+    position: relative;
+    background-color: #f4f4f4;
+}
+
+.fa-html5 {
+    font-size: 26px;
+    position: absolute;
+    padding: 10px;
+    top: 5px;
+    left: 8px;
+}
+
+.main-header b {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+
+.main-header p {
+    position: absolute;
+    top: 12px;
+    left: 50px;
+}
+
+.fa-ellipsis-v {
+    font-size: 26px;
+    position: absolute;
+    padding: 10px;
+    top: 5px;
+    right: 8px;
+}
+
+/* Image Classes */
+
+img {
+    width: 100%;
+    height: 400px;
+    display: block;
+}
+
+
+/* Navbar Classes */
+
+.navbar {
+    padding: 14px;
+    background: #f4f4f4;
+    font-size: 26px;
+    position: relative;
+}
+
+.fa-bookmark {
+    position: absolute;
+    right: 22px;
+}
+
+.comments {
+    padding: 0 14px;
+    background-color: #f4f4f4;
+    display: inline-block;
+    position: relative;
+} 
+
+
+
